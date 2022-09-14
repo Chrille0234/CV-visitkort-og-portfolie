@@ -1,0 +1,8 @@
+:root{
+    --base-color: #FCFAF9;
+    --accent-color: #48E5C2;
+    --light-color: #52796f;
+
+    --base-font: Verdana, Geneva, Tahoma, sans-serif;
+    --accent-font: 'Roboto Mono', monospace;
+}
