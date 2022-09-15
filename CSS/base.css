@@ -27,3 +27,6 @@ a:hover{
 ul{
     list-style: none;
 }
+h3, h4{
+    color: var(--accent-color)
+}
