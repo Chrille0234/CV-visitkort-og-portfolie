@@ -2,6 +2,6 @@ main, header, footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1em;
-    padding: 1em;
+    gap: 2em;
+    padding: 2em;
 }
